@@ -1,0 +1,6 @@
+{
+  "name": "Give Holidays Supplier Discovery",
+  "description": "Discover direct accommodation suppliers and verify photographic evidence from charity travel-package listings using Gemini visual intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
